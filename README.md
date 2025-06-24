@@ -1,12 +1,69 @@
-# React + Vite
+🎬 Netflix Clone Web Application
+A fully responsive Netflix clone built using React, HTML, CSS, and JavaScript, with Firebase handling authentication and backend services. This web application replicates key features of Netflix, including a Sign In, Sign Up, Home, and Video Player page.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+🔐 Authentication: Secure Sign In and Sign Up pages using Firebase Authentication.
 
-Currently, two official plugins are available:
+🏠 Home Page: Clean, Netflix-style UI showing media tiles.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+▶️ Player Page: Functional player screen to mimic Netflix’s streaming experience.
 
-## Expanding the ESLint configuration
+📱 Responsive Design: Seamless experience across mobile, tablet, and desktop devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔥 Firebase Backend: Used for auth and data handling.
+
+🛠️ Tech Stack
+Frontend: React, HTML, CSS, JavaScript
+
+Backend/Database: Firebase (Authentication, Firestore)
+
+📁 Project Structure
+
+Netflix-Clone/
+│
+├── public/
+├── src/
+│   ├── components/       # Reusable UI components
+│   ├── pages/            # SignIn, SignUp, Home, Player
+│   ├── firebase.js       # Firebase configuration
+│   └── App.js
+│
+├── .gitignore
+├── package.json
+├── README.md
+└── ...
+
+🧑‍💻 Getting Started
+Prerequisites
+Node.js and npm installed
+
+
+Firebase project setup
+
+Installation
+
+git clone https://github.com/your-username/netflix-clone.git
+cd netflix-clone
+npm install
+
+Firebase Setup
+
+Go to Firebase Console
+
+Create a new project.
+
+Enable Email/Password Authentication in the Firebase Authentication section.
+
+Copy your Firebase config and replace in firebase.js.
+
+Run the App
+
+npm start
+The app will run at http://localhost/ .
+
+🙌 Acknowledgements
+Netflix for design inspiration
+
+Firebase for backend services
+
+React community for open-source support
