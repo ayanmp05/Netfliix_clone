@@ -43,9 +43,9 @@ Node.js and npm installed
 
 <h4>Installation</h4>
 
-git clone https://github.com/your-username/netflix-clone.git
-cd netflix-clone
-npm install
+git clone https://github.com/your-username/netflix-clone.git<br>
+cd netflix-clone<br>
+npm install<br>
 
 <h3>Firebase Setup</h3>
 
