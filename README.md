@@ -1,4 +1,4 @@
-🎬 Netflix Clone Web Application
+<h1>🎬 Netflix Clone Web Application <h1>
 A fully responsive Netflix clone built using React, HTML, CSS, and JavaScript, with Firebase handling authentication and backend services. This web application replicates key features of Netflix, including a Sign In, Sign Up, Home, and Video Player page.
 
 🚀 Features
