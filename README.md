@@ -22,17 +22,17 @@ A fully responsive Netflix clone built using React, HTML, CSS, and JavaScript, w
 
 Netflix-Clone<br>
 │
-├── public/
-├── src/
-│   ├── components/       # Reusable UI components
-│   ├── pages/            # SignIn, SignUp, Home, Player
-│   ├── firebase.js       # Firebase configuration
-│   └── App.js
-│
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
+├── public<br>
+├── src<br>
+│   ├── components/       # Reusable UI components<br>
+│   ├── pages/            # SignIn, SignUp, Home, Player<br>
+│   ├── firebase.js       # Firebase configuration<br>
+│   └── App.js<br>
+│<br>
+├── .gitignore<br>
+├── package.json<br>
+├── README.md<br>
+└── ...<br>
 
 🧑‍💻 Getting Started
 Prerequisites
