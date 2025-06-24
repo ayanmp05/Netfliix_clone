@@ -24,8 +24,8 @@ Netflix-Clone<br>
 │
 ├── public<br>
 ├── src<br>
-│   ├── components/       # Reusable UI components<br>
-│   ├── pages/            # SignIn, SignUp, Home, Player<br>
+│   ├── components       # Reusable UI components<br>
+│   ├── pages            # SignIn, SignUp, Home, Player<br>
 │   ├── firebase.js       # Firebase configuration<br>
 │   └── App.js<br>
 │<br>
