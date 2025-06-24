@@ -2,23 +2,23 @@
 <br>
 A fully responsive Netflix clone built using React, HTML, CSS, and JavaScript, with Firebase handling authentication and backend services. This web application replicates key features of Netflix, including a Sign In, Sign Up, Home, and Video Player page.
 
-🚀 Features
-🔐 Authentication: Secure Sign In and Sign Up pages using Firebase Authentication.
+<h2>🚀 Features</h2>
+<h4>🔐 Authentication:</h4> Secure Sign In and Sign Up pages using Firebase Authentication.
 
-🏠 Home Page: Clean, Netflix-style UI showing media tiles.
+<h4>🏠 Home Page:</h4> Clean, Netflix-style UI showing media tiles.
 
-▶️ Player Page: Functional player screen to mimic Netflix’s streaming experience.
+<h4>▶️ Player Page:</h4> Functional player screen to mimic Netflix’s streaming experience.
 
-📱 Responsive Design: Seamless experience across mobile, tablet, and desktop devices.
+<h4>📱 Responsive Design:</h4> Seamless experience across mobile, tablet, and desktop devices.
 
-🔥 Firebase Backend: Used for auth and data handling.
+<h4>🔥 Firebase Backend:</h4> Used for auth and data handling.
 
-🛠️ Tech Stack
-Frontend: React, HTML, CSS, JavaScript
+<h2>🛠️ Tech Stack</h2>
+<h4>Frontend:</h4> React, HTML, CSS, JavaScript
 
-Backend/Database: Firebase (Authentication, Firestore)
+<h4>Backend/Database:</h4> Firebase (Authentication, Firestore)
 
-📁 Project Structure
+<h2>📁 Project Structure</h2>
 
 Netflix-Clone/
 │
