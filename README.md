@@ -20,7 +20,7 @@ A fully responsive Netflix clone built using React, HTML, CSS, and JavaScript, w
 
 <h2>📁 Project Structure</h2>
 
-Netflix-Clone<>
+Netflix-Clone<br>
 │
 ├── public/
 ├── src/
