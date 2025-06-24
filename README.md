@@ -34,20 +34,20 @@ Netflix-Clone<br>
 ├── README.md<br>
 └── ...<br>
 
-🧑‍💻 Getting Started
-Prerequisites
+<h2>🧑‍💻 Getting Started</h2>
+<h4>Prerequisites</h4>
 Node.js and npm installed
 
 
-Firebase project setup
+<h3>Firebase project setup</h3>
 
-Installation
+<h4>Installation</h4>
 
 git clone https://github.com/your-username/netflix-clone.git
 cd netflix-clone
 npm install
 
-Firebase Setup
+<h3>Firebase Setup</h3>
 
 Go to Firebase Console
 
@@ -57,14 +57,14 @@ Enable Email/Password Authentication in the Firebase Authentication section.
 
 Copy your Firebase config and replace in firebase.js.
 
-Run the App
+<h4>Run the App</h4>
 
 npm start
-The app will run at http://localhost/ .
+The app will run at http://localhost/ 
 
-🙌 Acknowledgements
-Netflix for design inspiration
+<h2>🙌 Acknowledgements</h2>
+<h4>Netflix for design inspiration</h4>
 
-Firebase for backend services
+<h4>Firebase for backend services</h4>
 
-React community for open-source support
+<h4>React community for open-source support</h4>
