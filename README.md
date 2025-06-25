@@ -42,11 +42,11 @@ Node.js and npm installed
 <h3>Firebase project setup</h3>
 
 <h4>Installation</h4>
-```
+
 git clone https://github.com/your-username/netflix-clone.git<br>
 cd netflix-clone<br>
 npm install<br>
-```
+
 <h3>Firebase Setup</h3>
 
 Go to Firebase Console
@@ -58,9 +58,9 @@ Enable Email/Password Authentication in the Firebase Authentication section.
 Copy your Firebase config and replace in firebase.js.
 
 <h4>Run the App</h4>
-```
+
 npm start
-```
+
 The app will run at http://localhost/ 
 
 <h2>🙌 Acknowledgements</h2>
